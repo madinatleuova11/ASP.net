@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 
-namespace project1.controllers
+namespace WebApplication1.Controllers
 {
     public class HelloController : Controller
     {
